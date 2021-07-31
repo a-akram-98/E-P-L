@@ -6,6 +6,14 @@
 
 
 
+# Contributers:
+
+[Mohamed Gamal](https://github.com/mohamedgamal7)
+
+[Abdelrahman Abdelkarim](https://github.com/abdelkarim-p)
+
+[Habiba Hesham](https://github.com/HabibaHeshamAtteya)
+
 
 
 # Enhanced Pseudo Li-DAR for 3D Image-Based 3D Object Detection
