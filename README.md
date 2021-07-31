@@ -5,6 +5,14 @@
 [![Made withPython](https://img.shields.io/badge/Made%20with-PaperSpace-407eaf?style=for-the-badge&logo=pytho)](https://www.paperspace.com/)
 
 
+# Contributers:
+
+[![](https://github.com/mohamedgamal7.png?size=50)](https://github.com/mohamedgamal7)
+[![](https://github.com/abdelkarim-p.png?size=50)](https://github.com/abdelkarim-p)
+[![](https://github.com/HabibaHeshamAtteya.png?size=50)](https://github.com/HabibaHeshamAtteya)
+
+
+
 
 # Enhanced Pseudo Li-DAR for 3D Image-Based 3D Object Detection
 Our work uses stereo images to detect 3D objects passing through 3 main stages:
@@ -16,7 +24,7 @@ Our work uses stereo images to detect 3D objects passing through 3 main stages:
 3- 3D object detection on the generated point cloud using [CIA-SSD](https://github.com/Vegeta2020/CIA-SSD/).
 
 
-![ezgif com-gif-maker](https://github.com/a-akram-98/E-P-L/blob/master/output_g.gif)
+![ezgif com-gif-maker](https://github.com/a-akram-98/E-P-L/blob/master/out.mp4)
 
 ## Results
 
@@ -43,6 +51,7 @@ conda env create -f environment.yml
 ```
 
 Then Follow the setup procedure of [CIA-SSD](https://github.com/Vegeta2020/CIA-SSD/) model
+please note that the SPConv model used is provided
 
 ```Our setup is P5000 GPU, Ubuntu Linux 20.04```
 
