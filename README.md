@@ -42,9 +42,14 @@ we're providing a [environment.yml](https://github.com/a-akram-98/E-P-L/blob/mas
 ```bash 
 conda env create -f environment.yml
 ```
-
 Then Follow the setup procedure of [CIA-SSD](https://github.com/Vegeta2020/CIA-SSD/) model
-please note that the SPConv model used is provided
+please note that the SPConv model used is provided, please note, in the process of setting up CIA-SSD
+
+
+please install torch_scatter 1.3.1 version with th e foloowing command
+```bash
+pip install torch_scatter==1.3.1
+```
 
 ```Our setup is P5000 GPU, Ubuntu Linux 20.04```
 
@@ -114,16 +119,14 @@ conda activate cia
 cd E2E
 python testDp.py --od_cp /path/to/od/weights --depth_cp /path/to/depth/weights
 ```
+## Visualiztion
 
-
-
+We used this [repo]( https://github.com/kuixu/kitti_object_vis) provided by [kuixu](https://github.com/kuixu) to visualize results
 
 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
