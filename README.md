@@ -5,12 +5,6 @@
 [![Made withPython](https://img.shields.io/badge/Made%20with-PaperSpace-407eaf?style=for-the-badge&logo=pytho)](https://www.paperspace.com/)
 
 
-# Contributers:
-
-[![](https://github.com/mohamedgamal7.png?size=50)](https://github.com/mohamedgamal7)
-[![](https://github.com/abdelkarim-p.png?size=50)](https://github.com/abdelkarim-p)
-[![](https://github.com/HabibaHeshamAtteya.png?size=50)](https://github.com/HabibaHeshamAtteya)
-
 
 
 
