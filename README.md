@@ -37,7 +37,7 @@ The [old](https://github.com/mileyan/pseudo_lidar/blob/master/preprocessing/gene
 
 ## Installation
 
-we're providing a ```environment.yml``` file  to setup on the environment with conda with following command:
+we're providing a [environment.yml](https://github.com/a-akram-98/E-P-L/blob/master/E2E/environment.yml) file  to setup on the environment with conda with following command:
 
 ```bash 
 conda env create -f environment.yml
@@ -56,7 +56,7 @@ please note that the SPConv model used is provided
 └── KITTI_DATASET
        ├── training    <-- 7481 train data
        |   ├── image_2 
-           ├── image_3
+       |   ├── image_3
        |   ├── calib
        |   ├── label_2
        |   └── planes
@@ -114,6 +114,8 @@ conda activate cia
 cd E2E
 python testDp.py --od_cp /path/to/od/weights --depth_cp /path/to/depth/weights
 ```
+
+
 
 
 
