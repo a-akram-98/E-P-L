@@ -15,6 +15,9 @@ Our work uses stereo images to detect 3D objects passing through 3 main stages:
 
 3- 3D object detection on the generated point cloud using [CIA-SSD](https://github.com/Vegeta2020/CIA-SSD/).
 
+
+![ezgif com-gif-maker](https://github.com/a-akram-98/E-P-L/blob/master/output_g.gif)
+
 ## Results
 
 ```
