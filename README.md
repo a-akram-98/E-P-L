@@ -124,7 +124,6 @@ python testDp.py --od_cp /path/to/od/weights --depth_cp /path/to/depth/weights
 We used this [repo]( https://github.com/kuixu/kitti_object_vis) provided by [kuixu](https://github.com/kuixu) to visualize results
 
 
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
