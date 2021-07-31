@@ -6,15 +6,6 @@
 
 
 
-# Contributers:
-
-[Mohamed Gamal](https://github.com/mohamedgamal7)
-
-[Abdelrahman Abdelkarim](https://github.com/abdelkarim-p)
-
-[Habiba Hesham](https://github.com/HabibaHeshamAtteya)
-
-
 
 # Enhanced Pseudo Li-DAR for 3D Image-Based 3D Object Detection
 Our work uses stereo images to detect 3D objects passing through 3 main stages:
