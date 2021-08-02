@@ -110,7 +110,7 @@ The model supports tensorboardX for **Live** loss curves using the following com
 tensorboard dev upload --logdir ./logs
 ```
 
-```Note: in E2E train mode when  if you paused the training and tried to resume it please change the flag --load_only_checkpoint to False and --Resume_Training to True```
+```Note: in E2E train mode if you paused the training and tried to resume it please change the flag --load_only_checkpoint to False and --Resume_Training to True```
 
 #### Test script
 
