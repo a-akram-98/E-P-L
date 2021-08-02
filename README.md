@@ -37,7 +37,7 @@ The [old](https://github.com/mileyan/pseudo_lidar/blob/master/preprocessing/gene
 
 ## Installation
 
-we're providing a [environment.yml](https://github.com/a-akram-98/E-P-L/blob/master/E2E/environment.yml) file  to setup on the environment with conda with following command:
+we're providing a [environment.yml](https://github.com/a-akram-98/E-P-L/blob/master/E2E/environment.yml) file  to setup on the environment with conda using the following command:
 
 ```bash 
 conda env create -f environment.yml
