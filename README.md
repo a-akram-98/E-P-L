@@ -43,7 +43,7 @@ we're providing a [environment.yml](https://github.com/a-akram-98/E-P-L/blob/mas
 conda env create -f environment.yml
 ```
 Then Follow the setup procedure of [CIA-SSD](https://github.com/Vegeta2020/CIA-SSD/) model
-please note that the SPConv model used is provided, please note, in the process of setting up CIA-SSD
+
 
 
 please install torch_scatter 1.3.1 version with the following command
