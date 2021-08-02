@@ -1,8 +1,8 @@
 [![Made withPython](https://img.shields.io/badge/Made%20with-python-407eaf?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Made withPytorch](https://img.shields.io/badge/Made%20with-pytorch-ee4c2c?style=for-the-badge&logo=pytorch)](https://www.pytorch.org/)
 [![Made withCuda](https://img.shields.io/badge/Made%20with-cuda-76b900?style=for-the-badge&logo=nvidia)](https://developer.nvidia.com/cuda-downloads)
-[![Made withColab](https://img.shields.io/badge/Made%20with-Colab-ee4c2c?style=for-the-badge&logo=Colab)](https://colab.research.google.com/)
-[![Made withPython](https://img.shields.io/badge/Made%20with-PaperSpace-407eaf?style=for-the-badge&logo=pytho)](https://www.paperspace.com/)
+[![Made withColab](https://img.shields.io/badge/Made%20on-Colab-ee4c2c?style=for-the-badge&logo=Colab)](https://colab.research.google.com/)
+[![Made withPython](https://img.shields.io/badge/Made%20on-PaperSpace-407eaf?style=for-the-badge&logo=pytho)](https://www.paperspace.com/)
 
 
 
