@@ -73,7 +73,7 @@ pip install torch_scatter==1.3.1
 
 ## Training
 ### Depth model
-The DeepPruner depth model trained from scratch ```100 epoch``` with the same hyperparameters provided in the paper.
+The DeepPruner depth model trained from scratch ```100 epoch```, as we changed the objective of the model from optimizing for disparity to optimizing for depth **(i.e. trained on depth not on disparity like the original DeepPruner)** with the same hyperparameters provided in the paper.
 
 [Depth Pretraining weights](https://drive.google.com/file/d/1OoN5S8qAtpmLWoCzoP0GgfPf1orFI7jP/view)
 
