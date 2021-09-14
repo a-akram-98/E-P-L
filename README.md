@@ -89,9 +89,9 @@ After pretraining each model separately as we mentioned we train the whole model
 
 The following weights is the result of the final model we achieved after the End-To-End training.
 
-[Depth Estimation E2E weights](https://drive.google.com/file/d/1fHt0c5sihOgFkAG2vfpBjqKzPGFaN4wv/view?usp=sharing)
+[Depth Estimation E2E weights](https://drive.google.com/file/d/1DySRCSTERan82D0CW6llFdgGsbgbtmhi/view?usp=sharing)
 
-[3D OD E2E weights](https://drive.google.com/file/d/1aTkz-xoT33ftctioSxAP---3BHAuLJfS/view?usp=sharing)
+[3D OD E2E weights](https://drive.google.com/file/d/1RH5k7XYOH2y8nPFRECLY7zFY60F4c9i4/view?usp=sharing)
 
 
 ### Scripts
